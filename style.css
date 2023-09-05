@@ -1,0 +1,44 @@
+ /* .box1{ 
+    background-color: #62b0f3;
+}
+
+.box2{
+    background-color: #3f729f;
+    height: 500px;
+}
+p{
+    margin: 0;
+    text-align: center;
+}
+div{
+    padding: 25px 0;
+   
+    width: 800px;
+    margin: 15px auto;
+}  */
+p{
+    text-align: center;
+    margin: 0;
+}
+.box1{
+    background-color: #d28c30;
+    width: 600px;
+    margin: 15px auto;
+    padding: 25px 0;
+}
+.box2{
+    background-color: #2768a1;
+    padding: 15px 0;
+    height: 250px;
+    width: 200px;
+}
+.box3{
+    background-color: #27a184;
+    width: 400px;
+   
+}
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
